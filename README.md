@@ -1,3 +1,3 @@
 # portifolio-reinaldo
 
-# Build my Portfolio.
+# Building my Portfolio.
